@@ -1,9 +1,8 @@
-# ThemeShift
+**ThemeShift**
     A Python script that switches themes and wallpapers based on whether you're indoors or outdoors.
 
 
-**##ThemeShift – Automatic Theme and Wallpaper Changer for Windows**
-    
+**ThemeShift – Automatic Theme and Wallpaper Changer for Windows**
     ThemeShift is a Python script that dynamically switches between light and dark themes on your Windows PC based on your environment (indoors or outdoors). It also automatically changes your desktop wallpaper to match      the theme, creating a seamless and adaptive user experience for different lighting conditions.
 
 ##Key Features:
